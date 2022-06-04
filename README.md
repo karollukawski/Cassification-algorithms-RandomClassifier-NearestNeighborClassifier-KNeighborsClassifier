@@ -1,1 +1,3 @@
-# Cassification-algorithms-RandomClassifier-earestNeighborClassifier-KNeighborsClassifier
+# Classification-algorithms-RandomClassifier-NearestNeighborClassifier-KNeighborsClassifier
+
+Accuracy score of three simple classification algorithms
