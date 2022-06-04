@@ -1,3 +1,3 @@
-# Classification-algorithms-RandomClassifier-NearestNeighborClassifier-KNeighborsClassifier
+# Classification-algorithms-RandomClassifier-NearestNeighbourClassifier-KNeighboursClassifier
 
 Accuracy score of three simple classification algorithms
